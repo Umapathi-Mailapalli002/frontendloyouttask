@@ -1,0 +1,222 @@
+{
+  "webDevelopment": [
+    {
+      "id": 1,
+      "name": "Frontend Basics",
+      "description": "Learn the basics of frontend development.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "percentageWatched": 72
+    },
+    {
+      "id": 2,
+      "name": "Responsive Web Design",
+      "description": "Design and build responsive websites.",
+      "technologies": ["HTML", "CSS", "Tailwind CSS"],
+      "percentageWatched": 85
+    },
+    {
+      "id": 3,
+      "name": "JavaScript Fundamentals",
+      "description": "Deep dive into JavaScript programming.",
+      "technologies": ["JavaScript"],
+      "percentageWatched": 60
+    },
+    {
+      "id": 4,
+      "name": "Modern Frontend Frameworks",
+      "description": "Introduction to modern frontend frameworks.",
+      "technologies": ["React.js", "Next.js"],
+      "percentageWatched": 45
+    },
+    {
+      "id": 5,
+      "name": "Full-Stack Web Development",
+      "description": "Build full-stack web applications.",
+      "technologies": ["React.js", "Next.js", "Node.js", "Express"],
+      "percentageWatched": 30
+    },
+    {
+      "id": 6,
+      "name": "Advanced CSS Techniques",
+      "description": "Learn advanced techniques for CSS styling.",
+      "technologies": ["CSS", "Sass"],
+      "percentageWatched": 80
+    }
+  ],
+  "appDevelopment": [
+    {
+      "id": 1,
+      "name": "iOS Development",
+      "description": "Develop applications for iOS.",
+      "technologies": ["Swift", "Xcode"],
+      "percentageWatched": 55
+    },
+    {
+      "id": 2,
+      "name": "Android Development",
+      "description": "Create applications for Android devices.",
+      "technologies": ["Kotlin", "Android Studio"],
+      "percentageWatched": 67
+    },
+    {
+      "id": 3,
+      "name": "Cross-Platform Development",
+      "description": "Build apps that work on multiple platforms.",
+      "technologies": ["React Native", "Flutter"],
+      "percentageWatched": 50
+    },
+    {
+      "id": 4,
+      "name": "Mobile UI/UX Design",
+      "description": "Design user interfaces and experiences for mobile apps.",
+      "technologies": ["Sketch", "Figma"],
+      "percentageWatched": 90
+    },
+    {
+      "id": 5,
+      "name": "App Backend Development",
+      "description": "Build backends for mobile applications.",
+      "technologies": ["Node.js", "Express", "Firebase"],
+      "percentageWatched": 40
+    },
+    {
+      "id": 6,
+      "name": "Advanced App Security",
+      "description": "Learn advanced security practices for mobile apps.",
+      "technologies": ["OAuth", "JWT"],
+      "percentageWatched": 25
+    }
+  ],
+  "dataScience": [
+    {
+      "id": 1,
+      "name": "Data Analysis with Python",
+      "description": "Analyze data using Python libraries.",
+      "technologies": ["Python", "Pandas", "NumPy"],
+      "percentageWatched": 75
+    },
+    {
+      "id": 2,
+      "name": "Machine Learning Basics",
+      "description": "Introduction to machine learning concepts.",
+      "technologies": ["Python", "scikit-learn"],
+      "percentageWatched": 80
+    },
+    {
+      "id": 3,
+      "name": "Deep Learning with TensorFlow",
+      "description": "Build deep learning models using TensorFlow.",
+      "technologies": ["Python", "TensorFlow"],
+      "percentageWatched": 65
+    },
+    {
+      "id": 4,
+      "name": "Data Visualization",
+      "description": "Create visual representations of data.",
+      "technologies": ["Python", "Matplotlib", "Seaborn"],
+      "percentageWatched": 90
+    },
+    {
+      "id": 5,
+      "name": "Big Data Technologies",
+      "description": "Work with large-scale data processing tools.",
+      "technologies": ["Hadoop", "Spark"],
+      "percentageWatched": 35
+    },
+    {
+      "id": 6,
+      "name": "Statistical Analysis",
+      "description": "Perform statistical analysis on data.",
+      "technologies": ["R", "Python"],
+      "percentageWatched": 50
+    }
+  ],
+  "blockchain": [
+    {
+      "id": 1,
+      "name": "Blockchain Basics",
+      "description": "Understand the fundamentals of blockchain technology.",
+      "technologies": ["Blockchain"],
+      "percentageWatched": 60
+    },
+    {
+      "id": 2,
+      "name": "Smart Contract Development",
+      "description": "Develop smart contracts using Solidity.",
+      "technologies": ["Solidity", "Ethereum"],
+      "percentageWatched": 70
+    },
+    {
+      "id": 3,
+      "name": "Decentralized Applications (DApps)",
+      "description": "Build decentralized applications on blockchain.",
+      "technologies": ["Ethereum", "Web3.js"],
+      "percentageWatched": 55
+    },
+    {
+      "id": 4,
+      "name": "Blockchain Security",
+      "description": "Learn security practices for blockchain applications.",
+      "technologies": ["Blockchain"],
+      "percentageWatched": 45
+    },
+    {
+      "id": 5,
+      "name": "Cryptocurrency Fundamentals",
+      "description": "Introduction to cryptocurrencies and how they work.",
+      "technologies": ["Cryptocurrency"],
+      "percentageWatched": 80
+    },
+    {
+      "id": 6,
+      "name": "Advanced Blockchain Concepts",
+      "description": "Explore advanced topics in blockchain technology.",
+      "technologies": ["Blockchain", "Consensus Algorithms"],
+      "percentageWatched": 25
+    }
+  ],
+  "artificialIntelligence": [
+    {
+      "id": 1,
+      "name": "AI Fundamentals",
+      "description": "Learn the basics of artificial intelligence.",
+      "technologies": ["Python", "AI"],
+      "percentageWatched": 85
+    },
+    {
+      "id": 2,
+      "name": "Natural Language Processing",
+      "description": "Work with natural language processing techniques.",
+      "technologies": ["Python", "NLP", "NLTK"],
+      "percentageWatched": 70
+    },
+    {
+      "id": 3,
+      "name": "Computer Vision",
+      "description": "Develop applications involving computer vision.",
+      "technologies": ["Python", "OpenCV"],
+      "percentageWatched": 65
+    },
+    {
+      "id": 4,
+      "name": "AI for Robotics",
+      "description": "Apply AI techniques to robotics.",
+      "technologies": ["Python", "Robotics"],
+      "percentageWatched": 50
+    },
+    {
+      "id": 5,
+      "name": "AI and Big Data",
+      "description": "Integrate AI with big data technologies.",
+      "technologies": ["Python", "Big Data"],
+      "percentageWatched": 40
+    },
+    {
+      "id": 6,
+      "name": "Ethics in AI",
+      "description": "Explore the ethical considerations in artificial intelligence.",
+      "technologies": ["AI"],
+      "percentageWatched": 95
+    }
+  ]
+}
