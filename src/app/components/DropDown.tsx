@@ -1,10 +1,16 @@
 import React from 'react'
 
-function DropDown() {
+interface DropDownProps {
+  onCategoryChange: (category: string) => void;
+}
+function DropDown({ onCategoryChange }:DropDownProps) {
+  const handleChange = (event: React.ChangeEvent<HTMLSelectElement>) => {
+    onCategoryChange(event.target.value);
+  };
   return (
     <div className=''>
-      <select className='border-2 border-stone-700 dark:border-cyan-200 dark:text- text-black rounded-md p-1' name="courses" id="courses">
-        <option value="course catagories">--Courses--</option>
+      <select className='h-10 border border-stone-700 dark:border-cyan-500 dark:text-white dark:bg-slate-800 text-black rounded-md p-1' name="courses" id="courses" onChange={handleChange}>
+        <option value="">--Courses--</option>
         <option value="Web Development">Web Development</option>
         <option value="App Development">App Development</option>
         <option value="Artificial Intelligence">Artificial Intelligence</option>

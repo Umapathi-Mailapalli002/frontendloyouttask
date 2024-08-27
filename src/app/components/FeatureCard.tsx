@@ -10,8 +10,8 @@ tech: string
 function FeatureCard({name, description, cta, tech}:cardsPropTypes) {
   return (
     <div className='flex justify-center mt-4'>
-      <div className='card-container w-11/12 md:w-11/12 md:ml-8 bg-orange-300 sm:w-80 h-56 rounded-3xl p-3'>
-            <h1 className='font-bold text-2xl font-roboto text-center h-14'>
+      <div className='card-container w-11/12 md:w-11/12 lg:w-11/12 md:ml-8 md:mr-4 bg-orange-300 sm:w-80 h-56 rounded-3xl p-3 cursor-pointer'>
+            <h1 className='font-bold text-2xl md:text-xl font-roboto text-center h-14'>
                 {name}
             </h1>
             <p className='text-stone-500 h-10 my-2'>

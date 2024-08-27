@@ -1,5 +1,5 @@
 {
-  "webDevelopment": [
+  "Web Development": [
     {
       "id": 1,
       "name": "Frontend Basics",
@@ -43,7 +43,7 @@
       "percentageWatched": 80
     }
   ],
-  "appDevelopment": [
+  "App Development": [
     {
       "id": 1,
       "name": "iOS Development",
@@ -87,7 +87,7 @@
       "percentageWatched": 25
     }
   ],
-  "dataScience": [
+  "Data Science": [
     {
       "id": 1,
       "name": "Data Analysis with Python",
@@ -131,7 +131,7 @@
       "percentageWatched": 50
     }
   ],
-  "blockchain": [
+  "Block Chain": [
     {
       "id": 1,
       "name": "Blockchain Basics",
@@ -175,7 +175,7 @@
       "percentageWatched": 25
     }
   ],
-  "artificialIntelligence": [
+  "Artificial Intelligence": [
     {
       "id": 1,
       "name": "AI Fundamentals",
